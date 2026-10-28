@@ -1,8 +1,8 @@
 #Electric Vehicles Market Performance Dashboard
 ##Project Overview
-This project analyzes electric vehicle market performance using Tableau.
+   This project analyzes electric vehicle market performance using Tableau.
 ##Objective
-To visualize electric vehicle sales and market trends using interactive charts and dashboards.
+   To visualize electric vehicle sales and market trends using interactive charts and dashboards.
 ##Tools used
 -Tableau Public
 -Data Visualization
