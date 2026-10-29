@@ -27,7 +27,8 @@ Dashboard Link
 https://public.tableau.com/views/electricvehiclesmarketperformance/Evsalesdash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Story Link
-https://public.tableau.com/shared/RM94Y89NZ?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/EV_Market_Story_17932567191140/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
 Conclusion
